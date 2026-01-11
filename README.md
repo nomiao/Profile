@@ -18,6 +18,6 @@
 - ✨ 목표: *"사용자를 배려하는 개발자"*
 
 <p align="center">
-  <a href="https://github.com/nomiao/PlayList.git">🌐 GameList</a> •
-  <a href="https://github.com/LeeYG03">💻 Develope GitHub</a> •
+  <a href="https://github.com/nomiao/PlayList.git">🌐 플레이한 게임 리스트</a> •
+  <a href="https://github.com/LeeYG03">💻 개발공부 깃허브</a> •
 </p>
