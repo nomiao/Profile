@@ -19,5 +19,5 @@
 
 <p align="center">
   <a href="https://github.com/nomiao/PlayList.git">🌐 플레이한 게임 리스트</a> •
-  <a href="https://github.com/LeeYG03">💻 개발공부 깃허브</a> •
+  <a href="https://github.com/LeeYG03">💻 개발공부 깃허브</a>
 </p>
